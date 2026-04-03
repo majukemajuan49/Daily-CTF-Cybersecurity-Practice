@@ -10,7 +10,7 @@ Target: **minimal 1 aktivitas per hari** (solve / belajar / writeup).
 
 | Day | Date | Challenges | Category | Platform | Status |
 |-----|------|-----------|----------|----------|--------|
-| 1 | 2026-04-03 | 1. Wiener's RSA<br>2. Simple RSA | 1. Cryptography<br>2. Cryptography | 1. skrctf<br>2. skrctf | 1. ✅<br>2. ✅ | 
+| 1 | 2026-04-03 | 1. Wiener's RSA<br>2. Simple RSA<br>3. Simple RSA 2 | 1. Cryptography<br>2. Cryptography<br>3. Cryptography | 1. skrctf<br>2. skrctf<br>3. skrctf | 1. ✅<br>2. ✅<br>3. ✅ | 
 | 2 | ... | ... | ... | ... | ... |
 | 3 | ... | ... | ... | ... | ... |
 | 4 | ... | ... | ... | ... | ... |
