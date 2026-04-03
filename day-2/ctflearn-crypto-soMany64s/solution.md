@@ -18,7 +18,6 @@ Stacked base64 encoded strings. Assume that the flag has a "{" character, just d
 ## 🚩 Flag
 ABCTF{pr3tty_b4s1c_r1ght?}
 
-
 ---
 
 ## 📚 Lessons Learned
