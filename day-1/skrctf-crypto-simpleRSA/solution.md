@@ -17,8 +17,7 @@ The challenge provides us with the values of p, q, e, and m. We are asked to cal
 ---
 
 ## 🚩 Flag
-SKR{77}
-
+77
 
 ---
 
