@@ -8,9 +8,9 @@ Target: **minimal 1 aktivitas per hari** (solve / belajar / writeup).
 
 ## 📊 Progress Tracker
 
-| Day | Date | Challenges | Category | Notes | Status |
-|-----|------|-----------|----------|-------|--------|
-| 1 | ... | ... ... | ... | ... | ... |
+| Day | Date | Challenges | Category | Platform | Status |
+|-----|------|-----------|----------|----------|--------|
+| 1 | 2026-04-03 | Wiener's RSA | Cryptography | skrctf |  ✅ | 
 | 2 | ... | ... | ... | ... | ... |
 | 3 | ... | ... | ... | ... | ... |
 | 4 | ... | ... | ... | ... | ... |
@@ -25,6 +25,7 @@ Target: **minimal 1 aktivitas per hari** (solve / belajar / writeup).
 ---
 
 ## 📂 Struktur Folder
+```text
 .
 ├── day-1
 │   ├── chall-1
@@ -38,6 +39,7 @@ Target: **minimal 1 aktivitas per hari** (solve / belajar / writeup).
 ├── day-2
 ├── day-3
 └── ...
+```
 
 Setiap folder berisi:
 - writeup / solution
