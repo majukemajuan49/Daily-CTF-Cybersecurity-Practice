@@ -16,7 +16,7 @@ Help! My friend stole my flashdrive that had the flag on it. When he gave it bac
 
 ## 🔗 Resources
 - Link: https://ctflearn.com/challenge/121
-- File: https://mega.nz/#!OHhUyIqA!H9WxSdG1O7eVcCm0dffggNB0-dBemSpBAXiZ0OXJnLk
+- File: https://mega.nz/#!OHhUyIqA!H9WxSdG1O7eVcCm0dffggNB0-dBemSpBAXiZ0OXJnLk ( [flag.txt](flag.txt) )
 
 ---
 
