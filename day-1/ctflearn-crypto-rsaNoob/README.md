@@ -13,7 +13,9 @@
 These numbers were scratched out on a prison wall. Can you help me decode them? https://mega.nz/#!al8iDSYB!s5olEDK5zZmYdx1LZU8s4CmYqnynvU_aOUvdQojJPJQ
 
 e: 1
+
 c: 9327565722767258308650643213344542404592011161659991421
+
 n: 245841236512478852752909734912575581815967630033049838269083
 
 ---

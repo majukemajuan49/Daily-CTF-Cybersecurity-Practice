@@ -46,8 +46,10 @@ print(DecodeDat(key=key,text=encoded))
 ```
 How much did Maggie originally cost? (Divided by 8, to the nearest integer, and then plus four)
 ```
-Which the answer is 110
+Which the answer is 110.
+
 4. Construct the key with the answer.
+
 5. Now we have the key and the decrypted flag. Through a little bit of guessing, it is decrypted using Vigenere cipher.
 
 ---
