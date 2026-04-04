@@ -1,8 +1,8 @@
 
 # 🛡️ Daily CTF & Cybersecurity Practice
 
-Repo ini digunakan untuk latihan rutin CTF & cybersecurity setiap hari.  
-Target: **minimal 1 aktivitas per hari** (solve / belajar / writeup).
+This repository is used for daily CTF and cybersecurity practice.  
+Goal: **at least 1 activity per day** (solving / learning / write-up).
 
 ---
 
@@ -17,20 +17,19 @@ Target: **minimal 1 aktivitas per hari** (solve / belajar / writeup).
 
 ---
 
-## 📌 Keterangan Status
-- ✅ = Solve challenge
-- 📘 = Belajar (tanpa solve)
-- ❌ = Tidak ada progress
+## 📌 Status Legend
+- ✅ = Challenge solved  
+- 📘 = Learning only (no solve)  
+- ❌ = No progress  
 
 ---
 
-## 📂 Struktur Folder
+## 📂 Folder Structure
 ```text
 .
 ├── day-1
 │   ├── chall-1
-│   │   ├── challenge.md
-│   │   ├── solution.md
+│   │   ├── README.md (challenge explanation + write-up / solution)
 │   │   ├── solver.py
 │   │   ├── exploit.py
 │   │   └── ...
@@ -41,19 +40,19 @@ Target: **minimal 1 aktivitas per hari** (solve / belajar / writeup).
 └── ...
 ```
 
-Setiap folder berisi:
-- writeup / solution
-- script (jika ada)
-- catatan pembelajaran
+Each folder contains:
+- Write-up / solution
+- Scripts (if any)
+- Learning notes
 
 ---
 
-## 🎯 Goal
-- Konsisten latihan setiap hari
-- Memahami konsep, bukan sekadar solve
-- Meningkatkan skill untuk kompetisi CTF
+## 🎯 Goals
+- Practice consistently every day
+- Understand concepts, not just solve challenges
+- Improve skills for CTF competitions
 
 ---
 
 ## 🚀 Notes
-> Progress kecil tiap hari > ambisi besar tapi berhenti di tengah jalan
+> Small daily progress is better than big ambitions that stop halfway
