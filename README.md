@@ -25,7 +25,7 @@ Goal: **at least 1 activity per day** (solving / learning / write-up).
 ---
 
 ## 📂 Folder Structure
-```text
+```
 .
 ├── day-1
 │   ├── chall-1
