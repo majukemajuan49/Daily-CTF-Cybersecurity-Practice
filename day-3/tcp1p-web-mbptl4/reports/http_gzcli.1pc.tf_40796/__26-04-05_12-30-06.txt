@@ -1,0 +1,27 @@
+# Dirsearch started Sun Apr  5 12:30:56 2026 as: /usr/lib/python3/dist-packages/dirsearch/dirsearch.py -u http://gzcli.1pc.tf:40796/
+
+301   318B   http://gzcli.1pc.tf:40796/js    -> REDIRECTS TO: http://gzcli.1pc.tf:40796/js/
+403   280B   http://gzcli.1pc.tf:40796/.ht_wsr.txt
+403   280B   http://gzcli.1pc.tf:40796/.htaccess.bak1
+403   280B   http://gzcli.1pc.tf:40796/.htaccess.sample
+403   280B   http://gzcli.1pc.tf:40796/.htaccess.save
+403   280B   http://gzcli.1pc.tf:40796/.htaccess.orig
+403   280B   http://gzcli.1pc.tf:40796/.htaccessBAK
+403   280B   http://gzcli.1pc.tf:40796/.htaccessOLD
+403   280B   http://gzcli.1pc.tf:40796/.htaccess_orig
+403   280B   http://gzcli.1pc.tf:40796/.htaccess_extra
+403   280B   http://gzcli.1pc.tf:40796/.htaccess_sc
+403   280B   http://gzcli.1pc.tf:40796/.htaccessOLD2
+403   280B   http://gzcli.1pc.tf:40796/.html
+403   280B   http://gzcli.1pc.tf:40796/.htm
+403   280B   http://gzcli.1pc.tf:40796/.htpasswds
+403   280B   http://gzcli.1pc.tf:40796/.httr-oauth
+403   280B   http://gzcli.1pc.tf:40796/.htpasswd_test
+403   280B   http://gzcli.1pc.tf:40796/.php
+200   755B   http://gzcli.1pc.tf:40796/administrator/
+301   329B   http://gzcli.1pc.tf:40796/administrator    -> REDIRECTS TO: http://gzcli.1pc.tf:40796/administrator/
+200   755B   http://gzcli.1pc.tf:40796/administrator/index.php
+301   319B   http://gzcli.1pc.tf:40796/css    -> REDIRECTS TO: http://gzcli.1pc.tf:40796/css/
+200   506B   http://gzcli.1pc.tf:40796/js/
+403   280B   http://gzcli.1pc.tf:40796/server-status
+403   280B   http://gzcli.1pc.tf:40796/server-status/
