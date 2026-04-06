@@ -16,7 +16,7 @@ Terinspirasi dari Compfest 15 Hackerclass ;)
 
 ## 🔗 Resources
 - Link: https://tcp.1pc.tf/games/11/challenges#305-Yowai-Kagi
-- File: https://tcp.1pc.tf/assets/2ed3677c9ff863e96db306085eec849e91ad622e061645e33894de01261200e3/s/CfDJ8FxOmXurdyBOsTXykQypL8V_dTLJpaer4CGuU6pjQI7oD9fnLmjAPzDVaMAtq4Gjb7N1kaKAOtBpVNv30sk-FYlC_XCjjIatcgDjU7jF-_lEY67TM_y_dZ0xoR_AMBNi_rgszTuXgIyAMy5xaXDQ_bMGlXIjH9pYgCFBD_g5SEuHBKkSDuQFaEP5HX8yM9x3-sJQPx5lNccwYyJtPw0e_gjkcgBpOCXw6Wbv_pkWeGgk9RNMs_0gDAaL2BlQmBnjIMXX9twr-eOiifZuVs__trs/yowaikagi_yowaikagi-dist.zip
+- File: https://tcp.1pc.tf/assets/2ed3677c9ff863e96db306085eec849e91ad622e061645e33894de01261200e3/s/CfDJ8FxOmXurdyBOsTXykQypL8V_dTLJpaer4CGuU6pjQI7oD9fnLmjAPzDVaMAtq4Gjb7N1kaKAOtBpVNv30sk-FYlC_XCjjIatcgDjU7jF-_lEY67TM_y_dZ0xoR_AMBNi_rgszTuXgIyAMy5xaXDQ_bMGlXIjH9pYgCFBD_g5SEuHBKkSDuQFaEP5HX8yM9x3-sJQPx5lNccwYyJtPw0e_gjkcgBpOCXw6Wbv_pkWeGgk9RNMs_0gDAaL2BlQmBnjIMXX9twr-eOiifZuVs__trs/yowaikagi_yowaikagi-dist.zip ( [chall.py](chall.py), [chall.py](chall.py) )
 
 ---
 
