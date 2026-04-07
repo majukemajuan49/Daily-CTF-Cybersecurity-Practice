@@ -43,6 +43,7 @@ Simple xor, the key for xor can be retrieved by xoring the other 2 keys.
 ---
 
 ## 💻 Exploit / Code
+[debug.py](debug.py)
 [solver.py](solver.py)
 
 ---
