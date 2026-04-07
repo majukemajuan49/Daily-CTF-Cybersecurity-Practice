@@ -14,7 +14,7 @@ Goal: **at least 1 activity per day** (solving / learning / write-up).
 | 2 | 2026-04-04 | 1. So many 64s<br>2. Encryption Master<br>3. XOR Is Friend Not Food<br>4. Symbolic Decimals<br>5. The Simpsons | 1. Cryptography<br>2. Cryptography<br>3. Cryptography<br>4. Cryptography<br>5. Cryptography | 1. ctflearn<br>2. ctflearn<br>3. ctflearn<br>4. ctflearn<br>5. ctflearn | 1. ✅<br>2. ✅<br>3. ✅<br>4. ✅<br>5. ✅ | - | 
 | 3 | 2026-04-05 | 1. mbptl-1<br>2. mbptl-2<br>3. mbptl-3<br>4. mbptl-4<br>5. mbptl-5<br>6. abc | 1. Web Exploitation<br>2. Web Exploitation<br>3. Web Exploitation<br>4. Web Exploitation<br>5. Web Exploitation<br>6. Cryptography | 1. TCP1P<br>2. TCP1P<br>3. TCP1P<br>4. TCP1P<br>5. TCP1P<br>6. LKS Kota Semarang 2026 | 1. ✅<br>2. ✅<br>3. ✅<br>4. ✅<br>5. ✅<br>6. ✅ | - |
 | 4 | 2026-04-06 | 1. Yowai Kagi<br>2. xor | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | On midterm exams
-| 5 | 2026-04-07 | 1. CRA | 1. Cryptography | 1. TCP1P | 1. ✅ | On midterm exams
+| 5 | 2026-04-07 | 1. CRA<br>2. Hash 1: intro | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | On midterm exams
 
 ---
 
