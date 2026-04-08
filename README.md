@@ -15,7 +15,7 @@ Goal: **at least 1 activity per day** (solving / learning / write-up).
 | 3 | 2026-04-05 | 1. mbptl-1<br>2. mbptl-2<br>3. mbptl-3<br>4. mbptl-4<br>5. mbptl-5<br>6. abc | 1. Web Exploitation<br>2. Web Exploitation<br>3. Web Exploitation<br>4. Web Exploitation<br>5. Web Exploitation<br>6. Cryptography | 1. TCP1P<br>2. TCP1P<br>3. TCP1P<br>4. TCP1P<br>5. TCP1P<br>6. LKS Kota Semarang 2026 | 1. ✅<br>2. ✅<br>3. ✅<br>4. ✅<br>5. ✅<br>6. ✅ | - |
 | 4 | 2026-04-06 | 1. Yowai Kagi<br>2. xor | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | On midterm exams
 | 5 | 2026-04-07 | 1. CRA<br>2. Hash 1: intro<br>3. White Space | 1. Cryptography<br>2. Cryptography<br>3. Cryptography | 1. TCP1P<br>2. TCP1P<br>3. TCP1P | 1. ✅<br>2. ✅<br>3. ✅ | On midterm exams
-| 6 | 2026-04-08 | 1. Hash 2: One-Way Function<br>2. Hash 3: Collision | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | - |
+| 6 | 2026-04-08 | 1. Hash 2: One-Way Function<br>2. Hash 3: Collision | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | On midterm exams |
 
 ---
 
