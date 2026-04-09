@@ -8,6 +8,8 @@ chr90_count = target_hash_value // 90
 
 password = (chr(90) * chr90_count) + chr(target_hash_value % 90)
 
+assert sum(ord(c) for c in password) == target_hash_value
+
 conn.recvuntil(b">> ")
 conn.sendline(b"1")
 
