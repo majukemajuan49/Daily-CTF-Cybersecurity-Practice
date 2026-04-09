@@ -16,7 +16,7 @@ Goal: **at least 1 activity per day** (solving / learning / write-up).
 | 4 | 2026-04-06 | 1. Yowai Kagi<br>2. xor | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | On midterm exams
 | 5 | 2026-04-07 | 1. CRA<br>2. Hash 1: intro<br>3. White Space | 1. Cryptography<br>2. Cryptography<br>3. Cryptography | 1. TCP1P<br>2. TCP1P<br>3. TCP1P | 1. ✅<br>2. ✅<br>3. ✅ | On midterm exams
 | 6 | 2026-04-08 | 1. Hash 2: One-Way Function<br>2. Hash 3: Collision | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | On midterm exams |
-| 7 | 2026-04-09 | 1. euclid's apprentice | 1. Cryptography | 1. TCP1P | 1. ✅ | - |
+| 7 | 2026-04-09 | 1. euclid's apprentice<br>2. Geprek | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | - |
 
 ---
 
