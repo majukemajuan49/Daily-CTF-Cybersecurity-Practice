@@ -1,0 +1,15 @@
+combine basecrack and cyberchef
+
+decoding sequence
+1. base85
+2. base58
+3. base45
+4. base64
+5. base32
+6. base64
+7. base32
+8. base64
+9. base32
+10. base64
+
+TCP1P{r3tr34t_fr0m_m4ny_b4s3!!!}
