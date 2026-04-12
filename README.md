@@ -19,7 +19,7 @@ Goal: **at least 1 activity per day** (solving / learning / write-up).
 | 7 | 2026-04-09 | 1. euclid's apprentice<br>2. Geprek | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | On midterm exams |
 | 8 | 2026-04-10 | 1. Cacing Besar Alaska | 1. Cryptography | 1. TCP1P | 1. ✅ | Last day of midterm exams |
 | 9 | 2026-04-11 | 1. OTP<br>2. Retreat From Base | 1. Cryptography<br>2. Misc | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | - |
-
+| 10 | 2026-04-12 | 1. Cube Cute<br>2. Cube Cute 2<br>3. Es Coco Prime<br>4. Terix | 1. Cryptography<br>2. Cryptography<br>3. Cryptography<br>4. Cryptography | 1. TCP1P<br>2. TCP1P<br>3. TCP1P<br>4. TCP1P | 1. ✅<br>2. ✅<br>3. ✅<br>4. ✅ | - |
 
 ---
 
