@@ -18,7 +18,8 @@ Goal: **at least 1 activity per day** (solving / learning / write-up).
 | 6 | 2026-04-08 | 1. Hash 2: One-Way Function<br>2. Hash 3: Collision | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | On midterm exams |
 | 7 | 2026-04-09 | 1. euclid's apprentice<br>2. Geprek | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | On midterm exams |
 | 8 | 2026-04-10 | 1. Cacing Besar Alaska | 1. Cryptography | 1. TCP1P | 1. ✅ | Last day of midterm exams |
-| 9 | 2026-04-11 | 1. OTP | 1. Cryptography | 1. TCP1P | 1. ✅ | - |
+| 9 | 2026-04-11 | 1. OTP<br>2. Retreat From Base | 1. Cryptography<br>2. Misc | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | - |
+
 
 ---
 
