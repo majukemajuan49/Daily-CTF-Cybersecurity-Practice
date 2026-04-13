@@ -20,13 +20,14 @@ Goal: **at least 1 activity per day** (solving / learning / write-up).
 | 8 | 2026-04-10 | 1. Cacing Besar Alaska | 1. Cryptography | 1. TCP1P | 1. ✅ | Last day of midterm exams |
 | 9 | 2026-04-11 | 1. OTP<br>2. Retreat From Base | 1. Cryptography<br>2. Misc | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. ✅ | - |
 | 10 | 2026-04-12 | 1. Cube Cute<br>2. Cube Cute 2<br>3. Es Coco Prime<br>4. TerixBr<br>5. Motor CB-XR | 1. Cryptography<br>2. Cryptography<br>3. Cryptography<br>4. Cryptography<br>5. Cryptography | 1. TCP1P<br>2. TCP1P<br>3. TCP1P<br>4. TCP1P<br>5. TCP1P | 1. ✅<br>2. ✅<br>3. ✅<br>4. ✅<br>5. ✅ | - |
-| 11 | 2026-04-13 | 1. Baby PyJail | 1. Misc | 1. TCP1P | 1. ✅ | - |
+| 11 | 2026-04-13 | 1. Baby PyJail<br>2. Primer Puasa | 1. Misc<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. 🕒 | - |
 ---
 
 ## 📌 Status Legend
 - ✅ = Challenge solved  
 - 📘 = Learning only (no solve)  
 - ❌ = No progress  
+- 🕒 = In progress
 
 ---
 
