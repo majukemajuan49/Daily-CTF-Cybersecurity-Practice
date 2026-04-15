@@ -1,0 +1,86 @@
+enc = [
+"sennsu",
+"eeegnw",
+"ewveer",
+"vtfesg",
+"rexifr",
+"wsfwes",
+"xgtgee",
+"reerux",
+"eisifh",
+"enwege",
+"eetggx",
+"regvws",
+"vgeuge",
+"heisif",
+"fftfei",
+"eegfgf",
+"gtxgee",
+"etftve",
+"sverwg",
+"gveegu",
+"nggeug",
+"ieffgf",
+"eenesv",
+"eshiif",
+"fehiis",
+"uextst",
+"wrwuee",
+"revwsg",
+"ewvsrg",
+"iifhse",
+"wereev",
+"sxtsws",
+"xgeget",
+"gteuvg",
+"wuweer",
+"ettnen",
+"ggffee",
+"eggext",
+"ihiefs",
+"urweew",
+"erxrue",
+"hisfie",
+"sxeeeu",
+"egngwt",
+"gtxeeg",
+"vfteee",
+"eihsif",
+"tswtxi",
+"sefihi",
+"esvsve",
+"eegtgx",
+"wrieww",
+"ftevee",
+"vgeeug",
+"ersntv",
+]
+
+dictionary = {
+    'o': 1,
+    'n': 2,
+    'e': 3,
+    't': 4,
+    'w': 5,
+    'h': 6,
+    'f': 7,
+    'u': 8,
+    'r': 9,
+    'i': 10,
+    'v': 20,
+    's': 30,
+    'x': 40,
+    'g': 50,
+    # 'h': 60,
+}
+
+m = ""
+for word in enc:
+    res = 0
+    
+    for c in word:
+        res += dictionary[c]
+        
+    m += chr(res)
+
+print(m)
