@@ -23,6 +23,7 @@ Goal: **at least 1 activity per day** (solving / learning / write-up).
 | 11 | 2026-04-13 | 1. Baby PyJail<br>2. Primer Puasa | 1. Misc<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. ✅<br>2. 🕒 | - |
 | 12 | 2026-04-14 | 1. One Pad Time | 1. Cryptography | 1. TCP1P | 1. ✅ | - |
 | 13 | 2025-04-15 | 1. Letter Times<br>2. y33tflag | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. 🕒<br>2. 🕒 | - |
+| 14 | 2025-04-16 | 1. Cluter RSA | 1. Cryptography | 1. picoctf | 1. ✅ | - |
 
 ---
 
