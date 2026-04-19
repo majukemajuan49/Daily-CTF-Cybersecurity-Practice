@@ -25,6 +25,8 @@ Goal: **at least 1 activity per day** (solving / learning / write-up).
 | 13 | 2025-04-15 | 1. Letter Times<br>2. y33tflag | 1. Cryptography<br>2. Cryptography | 1. TCP1P<br>2. TCP1P | 1. 🕒<br>2. 🕒 | - |
 | 14 | 2025-04-16 | 1. Cluter RSA | 1. Cryptography | 1. picoctf | 1. ✅ | - |
 | 15 | 2025-04-17 | 1. Tapping | 1. Cryptography | 1. picoctf | 1. ✅ | - |
+| 16 | 2025-04-18 | - | - | - | ❌ | On some other stuff |
+| 17 | 2025-04-19 | 1. Square Eyes<br>2. Inferius Prime | 1. Cryptography<br>2. Cryptography | 1. cryptohack<br>2. cryptohack | 1. ✅<br>2. ✅<br> | - |
 
 ---
 
